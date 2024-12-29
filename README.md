@@ -1,5 +1,3 @@
-Here’s the updated description with detailed Linux instructions included:  
-
 ---
 
 # NBT Exploits Repository  
@@ -42,5 +40,3 @@ Follow these steps to install the NBT files:
 This repository is strictly for educational purposes. Misuse of these resources for malicious activities is not endorsed and may have consequences. Always use responsibly!  
 
 ---  
-
-Feel free to use this description! Let me know if you need additional changes.
